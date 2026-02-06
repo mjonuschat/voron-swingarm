@@ -9,7 +9,16 @@ The changes to the Prusa design are minimal and were done to allow mounting the 
 
 ![SwingArm Motion Demo](/Images/swingarm.gif)
 
-## BOM
+## Kit Vendors
+
+Hardware kits for the Swingarm are available from the following vendors:
+
+| Region               | Notes                                                                                                                                                           |
+| ---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US & CA              | **[West3D](https://west3d.com)** is offering [hardware kits](https://west3d.com/products/voron-2020-swingarm-by-mjonuschat-for-trident-and-v2-4) on their shop. |
+
+
+## BOM/Self-Sourcing
 
 ### SwingArm
 
@@ -46,7 +55,7 @@ Insert the washer between the metal surfaces of the arm and the mount. Install t
 
 1. Insert the two roll-in T-Nuts into  the top rear horizontal extrusion
 2. Use the M3x8 BHCS screws to attach the SwingArm to the extrusion using the roll-in nuts. The usage of the extrusion protector is optional but recommended.
- 
+
 ## Acknowledgements
 
  - [Prusa SwingArm](https://www.printables.com/model/1168002-prusa-swingarm-open-source-release)
